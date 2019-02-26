@@ -1,6 +1,10 @@
 # [vikingfacer.github.io](https://vikingfacer.github.io)
 
 
+[bs-repo]:https://github.com/vikingfacer/C-BattleShip
+[rusty-repo]:https://github.com/vikingfacer/rusty_bot
+[julia-repo]:https://github.com/vikingfacer/JuliaSerial
+
 
 ## Current Projects
 
@@ -67,7 +71,3 @@ end
 test()
 ```
 
-
-[bs-repo]:https://github.com/vikingfacer/C-BattleShip
-[rusty-repo]:https://github.com/vikingfacer/rusty_bot
-[julia-repo]:https://github.com/vikingfacer/JuliaSerial
