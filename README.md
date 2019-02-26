@@ -11,8 +11,8 @@
 	* Alexa Jones - a robot themed with conspiracy theory. Alexa Jones is a robotics project that started out named rustybot. This is because The main language chosen for the project was/is Rust. The robot design to targeted at cheap and boards, Raspberry Pi (Main board) and an Arduino (peripheral board). This project has expained during development to include a controller, peripheral controls, and board to board communication system. 
 
 
-#Battleship
-###Basic BattleShip game build with raylib 
+# Battleship
+### Basic BattleShip game build with raylib 
 
 ## Screen Shots
 
