@@ -50,6 +50,24 @@
 
 * This is a basic library that opens closes reads, writes. It can sets the mincount, and the speed.
 
+Once the device is open it can read or write
+```julia 
+port = serial.open_port("/dev/ttyUSB0")
+serial.set_attrs(port, 1152000)
+
+function test()
+    for i=1:10
+    	@show serial.swrite(port, "Hello\n")
+    	sleep(.5)
+    	@show serial.sread(port)
+    end
+    serial.close_port(port)
+end 
+
+test()
+```
+
+
 [bs-repo]:https://github.com/vikingfacer/C-BattleShip
 [rusty-repo]:https://github.com/vikingfacer/rusty_bot
 [julia-repo]:https://github.com/vikingfacer/JuliaSerial
