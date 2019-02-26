@@ -33,6 +33,6 @@
 
 * Writings on the Project - The writings for this project are intended to be fun and informational. This is so people with no techinical experience can enjoy them. Even if its just for the jokes and bad analogies.  
 
-![Alexa Jones - Making a Robot](https://medium.com/@jacobmontpetit/alexa-jones-45b2187083fa)
+[Alexa Jones - Making a Robot](https://medium.com/@jacobmontpetit/alexa-jones-45b2187083fa)
 
-![Alexa Jones — Why Two Boards?](https://medium.com/@jacobmontpetit/alexa-jones-why-two-boards-4b9e28f1b3de)
+[Alexa Jones — Why Two Boards?](https://medium.com/@jacobmontpetit/alexa-jones-why-two-boards-4b9e28f1b3de)
