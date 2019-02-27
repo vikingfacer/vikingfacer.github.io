@@ -50,7 +50,7 @@
 [![In Action](http://img.youtube.com/vi/BS0gs7bHyYM/0.jpg)](http://www.youtube.com/watch?v=BS0gs7bHyYM "Alexa Jones In Action")
 
 
-# [Julia Serial][https://github.com/vikingfacer/JuliaSerial]
+# [Julia Serial](https://github.com/vikingfacer/JuliaSerial)
 
 * This is a basic library that opens closes reads, writes. It can sets the mincount, and the speed.
 
